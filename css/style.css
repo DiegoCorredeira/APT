@@ -308,3 +308,55 @@ img{
 .training-text a:hover{
     border-radius: 20px;
 }
+.atp-match{
+    background: url(../img/top-background.png) no-repeat center center fixed;
+    background-size: cover;
+    padding: 100px 0;
+}
+.subtitle{
+    max-width: 450px;
+    color: #5c5c5c;
+    margin: 0 auto 50px auto;
+    line-height: 20px;
+    font-weight: 400;
+}
+.last-match-cont{
+    width: 100%;
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    overflow: hidden;
+}
+.last-match-{
+    background: transparent url(../img/best_4.jpg) no-repeat center center;
+    padding-left: 0;
+    padding-right: 0;
+    box-shadow: 0 1px 5px rgba(0 0 0 / 20%);
+}
+.match-title{
+    background-color: rgba(35, 40, 45, 0.7);
+    color: #FFF;
+    font-weight: 400;
+    font-size: 13px;
+    padding: 10px 0;
+    text-align: left;
+    border-bottom: 1px solid #23232323;
+    letter-spacing: 1px;
+}
+.match-title_botom{
+    background-color: rgba(35, 40, 45, 0.7);
+    color: #FFF;
+    font-weight: 400;
+    font-size: 13px;
+    padding: 15px 0;
+    margin-bottom: -20px;
+    text-align: center;
+    border-bottom: 1px solid #23232323;
+    letter-spacing: 1px;
+}
+.match-title_bottom i{
+    margin-right: 10px;
+}
+.match-title_bottom span{
+    margin-right: 10px;
+
+}
