@@ -520,3 +520,62 @@ table tr:nth-child(even){
     letter-spacing: 1px;
     padding-bottom: 80px ;
 }
+.cont_black h6{
+    margin-bottom: 10px;
+    border-top: 1px solid #dd7f18;
+    padding-top: 10px;
+    font-weight: 800;
+}
+.video-text{
+    padding-top: 15px;
+}
+.video-text .date_cont{
+    color: rgba(255,255,255,0.8);
+    font-size: 10px;
+    font-weight: 7000;
+    margin-bottom: 15px;
+}
+.video-text .interview{
+    padding: 0 5px;
+    background: #f59123;
+    line-height: 16px;
+    font-size: 10px;
+    display: inline-block;
+}
+.video-text h5{
+    font-size: 15px;
+    font-family: 'open-sans', sans-serif;
+}
+.amazing_video .it-video img{
+    padding-right: 10px;
+}
+.amazing_video{
+    padding-bottom: 20px;
+}
+.amazing_video::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.rafael_nadal{
+    background-color: #d39b5f;
+    margin-top: 20px;
+    padding: 58px 50px;
+    height: 750px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-right: 5px;
+}
+.rafael_nadal .orange_part{
+    background-color: #d39b5f;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 50px;
+    right: -15px;
+    transform: rotate(317deg);
+
+}
+#white_part_nadal{
+    width: 600px;
+}
