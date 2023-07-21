@@ -619,3 +619,34 @@ around-section-txt .bold{
     color: #FFFF;
     text-decoration: none;
 }
+.latest_photo{
+    padding: 100px 0;
+}
+.current {
+    text-transform: uppercase;
+    color: #dd7f18;
+    border-bottom: 1px solid #dd7f18;
+}
+.latest_photo_ul{
+    margin-bottom: 50px;
+}
+.latest_photo_collage .col-xl-3{
+    margin: 0;
+    padding: 0;
+}
+.latest_photo_collage img{
+    width: 600px;
+    height: 300px;
+}
+.blank_span{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: #21212163;
+    opacity: 0;
+}
+.latest_photo_collage .col-xl-3:hover .blank_span{
+    opacity: 1;
+}
