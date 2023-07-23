@@ -650,3 +650,45 @@ around-section-txt .bold{
 .latest_photo_collage .col-xl-3:hover .blank_span{
     opacity: 1;
 }
+.item-text{
+  padding: 25px 0 0 20px;
+}
+.item-text p{
+  margin-top: 20px;
+  font-size: 25px;
+  font-style: italic;
+  line-height: 30px;
+  color: #232323;
+  font-weight: 300;
+}
+.carousel-indicators{
+  bottom: -30px;
+}
+.carousel-indicators li {
+  background-color: black ;
+
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+.carousel-indicators .active{
+  border: 1px solid #f59123 ;
+  background-color: transparent;
+}
+.carousel-indicators2 li {
+  
+
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #575757;
+  
+  border: 1px solid #575757;
+}
+.item-text .name{
+  margin-top: 5px;
+  font-size: 18px;
+  color: #c86e0c;
+  font-weight: 400;
+}
