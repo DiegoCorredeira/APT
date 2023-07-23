@@ -562,98 +562,98 @@ table tr:nth-child(even) {
   background-size: cover;
   padding-top: 100px;
 }
-.around-section-txt h4{
-    font-family: raleway;
-    font-size: 50px;
-    text-align: center;
-    font-weight: 600;
-    color: #FFFFFF;
+.around-section-txt h4 {
+  font-family: raleway;
+  font-size: 50px;
+  text-align: center;
+  font-weight: 600;
+  color: #ffffff;
 }
 
-around-section-txt .bold{
-    font-family: raleway;
-    font-weight: 900;
+around-section-txt .bold {
+  font-family: raleway;
+  font-weight: 900;
 }
-.wt{
-    color: #dd7f18;
+.wt {
+  color: #dd7f18;
 }
-.around-section-text i{
-    font-size: 50px;
-    color: #dd7f18;
-    vertical-align: top;
+.around-section-text i {
+  font-size: 50px;
+  color: #dd7f18;
+  vertical-align: top;
 }
-.best_tennis_subtitle{
-    font-size: 15px;
-    text-align: center;
-    font-weight: 600;
-    color: #FFFFFF;
-    margin: 20px;
-    letter-spacing: 10px;
-    text-transform: uppercase;
+.best_tennis_subtitle {
+  font-size: 15px;
+  text-align: center;
+  font-weight: 600;
+  color: #ffffff;
+  margin: 20px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
 }
-.subscription-tennis{
-    width: 100%;
-    border: 5px solid #FFFF;
-    margin-top: 50px;
-    padding: 120px 0 100px 0;
-    background: rgba(0 0 0 /30%);
+.subscription-tennis {
+  width: 100%;
+  border: 5px solid #ffff;
+  margin-top: 50px;
+  padding: 120px 0 100px 0;
+  background: rgba(0 0 0 /30%);
 }
-.subscription-tennis p{
-    margin: 30px 0 30px 0;
-    color: #FFF;
-    font-size: 13px;
-    font-style: italic;
-    line-height: 20px;
-    text-transform: none;
-    padding: 10px 50px;
+.subscription-tennis p {
+  margin: 30px 0 30px 0;
+  color: #fff;
+  font-size: 13px;
+  font-style: italic;
+  line-height: 20px;
+  text-transform: none;
+  padding: 10px 50px;
 }
-.subscription-tennis a{
-    background-color: #FFFF;
-    color: #dd7f18;
-    font-weight: 700;
-    padding: 20px 30px;
-    border-radius: 10px;
+.subscription-tennis a {
+  background-color: #ffff;
+  color: #dd7f18;
+  font-weight: 700;
+  padding: 20px 30px;
+  border-radius: 10px;
 }
-.subscription-tennis a:hover{
-    background-color: #dd7f18;
-    color: #FFFF;
-    text-decoration: none;
+.subscription-tennis a:hover {
+  background-color: #dd7f18;
+  color: #ffff;
+  text-decoration: none;
 }
-.latest_photo{
-    padding: 100px 0;
+.latest_photo {
+  padding: 100px 0;
 }
 .current {
-    text-transform: uppercase;
-    color: #dd7f18;
-    border-bottom: 1px solid #dd7f18;
+  text-transform: uppercase;
+  color: #dd7f18;
+  border-bottom: 1px solid #dd7f18;
 }
-.latest_photo_ul{
-    margin-bottom: 50px;
+.latest_photo_ul {
+  margin-bottom: 50px;
 }
-.latest_photo_collage .col-xl-3{
-    margin: 0;
-    padding: 0;
+.latest_photo_collage .col-xl-3 {
+  margin: 0;
+  padding: 0;
 }
-.latest_photo_collage img{
-    width: 600px;
-    height: 300px;
+.latest_photo_collage img {
+  width: 600px;
+  height: 300px;
 }
-.blank_span{
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    background-color: #21212163;
-    opacity: 0;
+.blank_span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: #21212163;
+  opacity: 0;
 }
-.latest_photo_collage .col-xl-3:hover .blank_span{
-    opacity: 1;
+.latest_photo_collage .col-xl-3:hover .blank_span {
+  opacity: 1;
 }
-.item-text{
+.item-text {
   padding: 25px 0 0 20px;
 }
-.item-text p{
+.item-text p {
   margin-top: 20px;
   font-size: 25px;
   font-style: italic;
@@ -661,34 +661,89 @@ around-section-txt .bold{
   color: #232323;
   font-weight: 300;
 }
-.carousel-indicators{
+.carousel-indicators {
   bottom: -30px;
 }
 .carousel-indicators li {
-  background-color: black ;
+  background-color: black;
 
   width: 10px;
   height: 10px;
   border-radius: 50%;
   margin-bottom: 10px;
 }
-.carousel-indicators .active{
-  border: 1px solid #f59123 ;
+.carousel-indicators .active {
+  border: 1px solid #f59123;
   background-color: transparent;
 }
 .carousel-indicators2 li {
-  
-
   width: 10px;
   height: 10px;
   border-radius: 50%;
   background: #575757;
-  
+
   border: 1px solid #575757;
 }
-.item-text .name{
+.item-text .name {
   margin-top: 5px;
   font-size: 18px;
   color: #c86e0c;
   font-weight: 400;
 }
+.top_product {
+  margin-top: 100px;
+  padding: 100px 0;
+  background:  linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/chino-rocha-2FKTyJqfWX8-unsplash.jpg) fixed center center;
+  color: white;
+  width: 100%;
+}
+.carousel_div_title {
+  padding: 20px 5px;
+  border-bottom: 1px solid #333;
+}
+
+.buy {
+  padding: 10px 15px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  background: #f59123;
+  border: 1px solid #f7a347;
+  margin-top: 15px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.carousel-effect {
+  position: absolute;
+  font-weight: 400;
+  font-size: 13px;
+  top: 100%;
+  left: 0;
+  padding: 18px 10px 10px 10px;
+
+  background: rgba(0, 0, 0, 0.6);
+  bottom: 0;
+  right: 0;
+  opacity: 0;
+
+  transition: 0.5s ease-in;
+}
+.carousel-effect i{
+  color: #fff;
+  font-size: 18px;
+  background: #f59123;
+  border: 1px solid #f7a347;
+  border-radius: 100%;
+  padding: 10px;
+text-align: center;
+margin-top: 30%;
+margin-left: 40%;
+}
+.carousel-effect_div{
+  overflow: hidden;
+}
+.carousel-effect_div:hover .carousel-effect {
+  opacity: 1;
+  top:0;
+  }
